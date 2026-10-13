@@ -62,6 +62,6 @@ The project aligns with the Minor-I evaluation scheme emphasizing originality, c
 
 ## 👤 Author
 
-**Prince Raj Sinha**  
+**Prince Raj**  
 Minor-I Project – Statistics  
 Rungta College of Engineering & Technology
